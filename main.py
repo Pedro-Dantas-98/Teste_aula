@@ -6,3 +6,5 @@ print(f"Olá, {nome}!")
 print("Olá, estou com alguns problemas com o VS Code.")
 
 print("Parece que finalmente consegui resolver os problemas.")
+
+print("Espero que não tenha mais complicações no futuro.")
